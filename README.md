@@ -1,5 +1,5 @@
 # DiffeomorphicPIV
-** Current repo only contains the experimental results recorded in Jupyter note book. The full code will be open once the manuscript is accepted.**
+**Current repo only contains the experimental results recorded in Jupyter note book. The full code will be open once the manuscript is accepted. **
 
 
 [![preprint](https://img.shields.io/static/v1?label=arXiv&message=0000.0000&color=B31B1B)](https://arxiv.org)
@@ -21,9 +21,9 @@ conda install -c conda-forge cupy
 
 
 ## The experiments
-* [Exp1.ipynb](www.xxx.com): Investigate the converge performance w.r.t the iteration number
-* [Exp2.ipynb](www.xxx.com): Test on 3 Lamb-Oseen flows and 3 Sin flows;
-* [Exp3.ipynb](www.xxx.com): Test on 3 real PIV cases;
+* [Exp1.ipynb](https://github.com/yongleex/DiffeomorphicPIV/blob/main/Exp1.ipynb): Investigate the converge performance w.r.t the iteration number
+* [Exp2.ipynb](https://github.com/yongleex/DiffeomorphicPIV/blob/main/Exp2.ipynb): Test on 3 Lamb-Oseen flows and 3 Sin flows;
+* [Exp3.ipynb](https://github.com/yongleex/DiffeomorphicPIV/blob/main/Exp3.ipynb): Test on 3 real PIV cases;
 
 
 ### BibTeX
@@ -36,7 +36,7 @@ conda install -c conda-forge cupy
 For any questions regarding this work, please email me at [yongli.cv@gmail.com](mailto:yongli.cv@gmail.com).
 
 #### Acknowledgements
-Parts of the code/network structures in this repository have been adapted from the following repos:
+Parts of the code/deep net in this repository have been adapted from the following repos:
 
 * [OpenPIV/openpiv-python](https://github.com/OpenPIV/openpiv-python)
 * [erizmr/UnLiteFlowNet-PIV](https://github.com/erizmr/UnLiteFlowNet-PIV)
