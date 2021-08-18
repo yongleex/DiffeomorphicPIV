@@ -10,9 +10,8 @@ This repository contains code for the submitted paper *[Diffeomorphic Particle I
 In this work, a diffeomorphic PIV technique is proposed to reduce the curvature effect of the non-straight particle trajectory. 
 Different from other existing PIV techniques, our diffeomorphic PIV computes the real curved particle trajectory to achieve accurate velocity measurement.
 
-
 ### Motivation 
-![xx](./movie.gif)
+![movie](https://github.com/yongleex/DiffeomorphicPIV/blob/1364f48b3b448854a0af8ce5d5f316c4b197f3ca/output/movie.gif)
 The diffeomorphic PIV finds the curved trajectory (streamline of velocity field) to explain the image displacement between __TWO__ recordings. It is significantly different from the straight-line approximation of existing PIV techniques. More info is referred to the paper.
 
 ## Install dependencies
