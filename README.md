@@ -39,8 +39,7 @@ wget https://github.com/erizmr/UnLiteFlowNet-PIV/raw/master/models/UnsupervisedL
 
 ```
 @article{lee2020diffeomorphic,
-  title={Diffeomorphic Particle Image Velocimetry
-},
+  title={Diffeomorphic Particle Image Velocimetry},
   author={Lee, Yong and Mei, Shuang},
   journal={arXiv preprint arXiv:2108.07438},
   year={2021}
