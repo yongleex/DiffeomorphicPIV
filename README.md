@@ -1,5 +1,4 @@
 # DiffeomorphicPIV
-__Current repo only contains the experimental results recorded in Jupyter note book. The full code will be open once the manuscript is accepted.__
 
 
 [![preprint](https://img.shields.io/static/v1?label=arXiv&message=2108.07438&color=B31B1B)](http://arxiv.org/abs/2108.07438)
