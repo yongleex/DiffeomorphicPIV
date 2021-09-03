@@ -11,7 +11,7 @@ Different from other existing PIV techniques, our diffeomorphic PIV computes the
 
 ### Motivation 
 ![movie](https://github.com/yongleex/DiffeomorphicPIV/blob/1364f48b3b448854a0af8ce5d5f316c4b197f3ca/output/movie.gif)
-The diffeomorphic PIV finds the curved trajectory (streamline of velocity field) to explain the image displacement between __TWO__ recordings. It is significantly different from the straight-line approximation of existing PIV techniques. More info is referred to the [paper](https://arxiv.org/abs/2108.07438).
+The diffeomorphic PIV uses the curved trajectory (streamline of velocity field) to explain the image displacement between __TWO__ recordings. It is significantly different from the straight-line approximation of existing PIV techniques. More info is referred to the [paper](https://arxiv.org/abs/2108.07438).
 
 ## Install dependencies
 ```
