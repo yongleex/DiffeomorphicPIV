@@ -1,17 +1,18 @@
 # DiffeomorphicPIV
 
 
+[![preprint](https://img.shields.io/static/v1?label=Journal&message=TIM&color=B31B1B)](https://doi.org/10.1109/TIM.2021.3132999)
 [![preprint](https://img.shields.io/static/v1?label=arXiv&message=2108.07438&color=B31B1B)](http://arxiv.org/abs/2108.07438)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-This repository contains code for the submitted paper *[Diffeomorphic Particle Image velocimetry](http://arxiv.org/abs/2108.07438)*. 
+This repository contains code for the accepted paper *[Diffeomorphic Particle Image velocimetry](https://doi.org/10.1109/TIM.2021.3132999)*. 
 In this work, a diffeomorphic PIV technique is proposed to reduce the curvature effect of the non-straight particle trajectory. 
 Different from other existing PIV techniques, our diffeomorphic PIV computes the real curved particle trajectory to achieve accurate velocity measurement.
 
 ### Motivation 
 ![movie](https://github.com/yongleex/DiffeomorphicPIV/blob/1364f48b3b448854a0af8ce5d5f316c4b197f3ca/output/movie.gif)
-The diffeomorphic PIV uses the curved trajectory (streamline of velocity field) to explain the image displacement between __TWO__ recordings. It is significantly different from the straight-line approximation of existing PIV techniques. More info is referred to the [paper](https://arxiv.org/abs/2108.07438).
+The diffeomorphic PIV uses the curved trajectory (streamline of velocity field) to explain the image displacement between __TWO__ recordings. It is significantly different from the straight-line approximation of existing PIV techniques. More info is referred to the [paper](https://doi.org/10.1109/TIM.2021.3132999).
 
 ## Install dependencies
 ```
@@ -37,12 +38,15 @@ wget https://github.com/erizmr/UnLiteFlowNet-PIV/raw/master/models/UnsupervisedL
 ### BibTeX
 
 ```
-@article{lee2020diffeomorphic,
-  title={Diffeomorphic Particle Image Velocimetry},
-  author={Lee, Yong and Mei, Shuang},
-  journal={arXiv preprint arXiv:2108.07438},
-  year={2021}
-}
+@article{lee2021diffeomorphic,
+  author={Lee, Yong and Mei, Shuang},  
+  journal={IEEE Transactions on Instrumentation and Measurement},  
+  title={Diffeomorphic Particle Image Velocimetry},  
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIM.2021.3132999}}
 ```
 
 ### Questions?
